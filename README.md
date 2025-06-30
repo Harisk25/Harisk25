@@ -6,19 +6,23 @@ I recently graduated and obtained my Bachelor of Science Degree, majoring in Com
 
 Some of my hobbies include video games, trading card games, working out, and collecting.
 
-<b>*Please note that only projects with public repositories have links.</b>
-<h2>Unity Projects:</h2>
+
+<h2>Projects</h2>
+
+<b>*Please note that only projects with public repositories are shown here, all other projects are shown on my [LinkedIn](https://www.linkedin.com/in/haris-kajtazovic-1372b5210/)</b>
+
+<h3>Unity Projects:</h3>
 
 - <b>[Physic Optic Lab Simulation](https://github.com/Harisk25/VRFinalProject)</b>
     
 - <b>[Vow of The Grey Knight (2D Metroidvania)](https://github.com/Harisk25/CMPT330_Project)</b>
 
 
-<h2>Python Projects:</h2>
+<h3>Python Projects:</h3>
 
 - <b>[Secure File Transfer Application](https://github.com/Harisk25/361Project)</b>
 
-<h2>C Projects:</h2>
+<h3>C Projects:</h3>
 
 - <b>[Simple Shell](https://github.com/Harisk25/360project)</b>
 
