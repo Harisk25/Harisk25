@@ -29,7 +29,7 @@ Some of my hobbies include video games, trading card games, working out, and col
 
 <h2>Connect with me:</h2>
 
-[youtube]: https://www.youtube.com/@hariskajtazovic
-[linkedin]: https://www.linkedin.com/in/haris-kajtazovic-1372b5210/
+[youtube](https://www.youtube.com/@hariskajtazovic)
+[linkedin](https://www.linkedin.com/in/haris-kajtazovic-1372b5210/)
 
 
