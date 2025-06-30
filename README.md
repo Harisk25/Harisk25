@@ -1,4 +1,4 @@
-<h1>Hello There! My name is Haris! <br/><a href="https://github.com/Harisk25">Programmer</a>, <a href="https://www.linkedin.com/in/haris-kajtazovic-1372b5210/">XR, Game, and Software Developer</a>, <a href="https://www.youtube.com/@hariskajtazovic">YouTuber</a></h1>
+<h1>Hello There! My name is Haris Kajtazovic! <br/><a href="https://github.com/Harisk25">Programmer</a> | <a href="https://www.linkedin.com/in/haris-kajtazovic-1372b5210/">XR, Game, and Software Developer</a>
 
 <h2>About Me:</h2>
 
@@ -6,6 +6,7 @@ I recently graduated and obtained my Bachelor of Science Degree, majoring in Com
 
 Some of my hobbies include video games, trading card games, working out, and collecting.
 
+<b>*Please note that only projects with public repositories have links.</b>
 <h2>Unity Projects:</h2>
 
 - <b>[Physic Optic Lab Simulation](https://github.com/Harisk25/VRFinalProject)</b>
@@ -29,7 +30,7 @@ Some of my hobbies include video games, trading card games, working out, and col
 
 <h2>Connect with me:</h2>
 
-- [youtube](https://www.youtube.com/@hariskajtazovic)
-- [linkedin](https://www.linkedin.com/in/haris-kajtazovic-1372b5210/)
+- [Youtube](https://www.youtube.com/@hariskajtazovic)
+- [LinkedIn](https://www.linkedin.com/in/haris-kajtazovic-1372b5210/)
 
 
