@@ -9,7 +9,7 @@ Some of my hobbies include video games, trading card games, working out, and col
 
 <h2>Projects</h2>
 
-<b>*Please note that only projects with public repositories are shown here, all other projects are shown on my [LinkedIn](https://www.linkedin.com/in/haris-kajtazovic-1372b5210/)</b>
+<b>*Please note that only projects with public repositories are shown here, all other projects are shown on my [LinkedIn](https://www.linkedin.com/in/haris-kajtazovic-1372b5210/) or I have a video demonstration on my [Youtube](https://www.youtube.com/@haris-coding).</b>
 
 <h3>Unity Projects:</h3>
 
