@@ -18,15 +18,6 @@ Some of my hobbies include video games, trading card games, working out, and col
 - <b>[Vow of The Grey Knight (2D Metroidvania)](https://github.com/Harisk25/CMPT330_Project)</b>
 
 
-<h3>Python Projects:</h3>
-
-- <b>[Secure File Transfer Application](https://github.com/Harisk25/361Project)</b>
-
-<h3>C Projects:</h3>
-
-- <b>[Simple Shell](https://github.com/Harisk25/360project)</b>
-
-
 <h2>My YouTube Videos</h2>
 
 - [Computer Graphics Term Project Shocase](https://www.youtube.com/watch?v=wP_EAosNePk)
